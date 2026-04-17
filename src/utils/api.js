@@ -1,7 +1,7 @@
 // ============================================
 // 🔴 IMPORTANT: Change this to your Render URL
 // ============================================
-const API_BASE = import.meta.env.VITE_API_URL || "https://examforge-backend-1-hb4q.onrender.com";
+const API_BASE = "https://examforge-backend-1-hb4q.onrender.com";
 
 // Get stored token
 function getToken() {
